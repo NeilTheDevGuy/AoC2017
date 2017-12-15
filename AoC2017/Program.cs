@@ -1,4 +1,6 @@
-﻿namespace Aoc2017
+﻿using Aoc2017.Inputs;
+
+namespace Aoc2017
 {
     internal class Program
     {
@@ -15,7 +17,8 @@
             //Day9.Run();
             //Day10.Run();
             //Day11.Run();
-            Day12.Run();
+            //Day12.Run();
+            Day15.Run();
         }
     }
 }
