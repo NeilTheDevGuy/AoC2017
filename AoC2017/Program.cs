@@ -18,7 +18,9 @@ namespace Aoc2017
             //Day10.Run();
             //Day11.Run();
             //Day12.Run();
-            Day15.Run();
+            //Day15.Run();
+            Day18.Run();
+            //Day19.Run();
         }
     }
 }
